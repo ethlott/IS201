@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    color: #555555;
+    background-color: rgb(35, 152, 199);
+ }
+ li {
+     font-size: 14px;  
+     font-style: italic; 
+     font-weight: normal; 
+ }
+ a {
+     color: maroon;
+     text-decoration: none;
+ }
+ a:hover {
+    text-decoration: underline ;
+ }
+ a:visited{color: rgb(12, 17, 154);}
+ .resumelistHeading {
+    font-weight:bold;
+    font-style: normal;
+ }
+ .underline{
+    text-decoration:underline
+ }
+ .bold{font-weight: bold;}
+ .justify{text-align: justify;}
+ 
+ .homebg{background-image: url(../Images/byu\ logo.jpg);
+background-position: top right;
+/*background-repeat: ; */
+}
+
+.box1 {
+    border-width: 1px;
+    border-style: solid;
+    border-color: rgb(128, 128, 128);
+
+    /*border: 1 px solid red; */
+}
+.box2 {
+    padding: 5px;
+}
+.box3 {
+    margin: 50px;
+}
+
+.common header {
+color: purple; 
+
+}
+
+.common header:hover {
+color: red; 
+
+
+}
